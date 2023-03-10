@@ -1,0 +1,78 @@
+.page h1{
+    text-align: left;
+    padding-left: 10%;
+    padding-top: 5%;
+    font-family: arial black;
+}
+
+.page h1 span{
+    padding-left: 8%;
+    font-family: arial;
+    font-size: 20px;
+
+}
+.page ul li{
+    font-family: arial ;
+    margin-top: -2%;
+    
+}
+.topbar{
+    text-align: right;
+    margin-right: 10%;
+    margin-top: -6%;
+}
+.topbar ul li{
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.center {
+    margin-top: 17%;
+    text-align: left;
+    margin-left: 20%;
+}
+.center h2{
+    font-size: 40px;
+    font-family: arial;
+   
+}
+.center h2 span{
+    font-size: 40px;
+    font-family: Arial black;
+   
+}
+.center  .img img{
+   
+    margin-right: 20%;
+    height: 350px;
+    width: 350px;
+    float: right;
+    margin-top: -19%;
+    border-radius: 50%;
+}
+.pro{
+ margin-left: 10%;
+ margin-top: 15%;
+}
+.pro h4{
+    font-family: arial black;
+    font-size: 70px;
+
+}
+.pro h4 span{
+    font-family: arial black;
+    font-size: 90px;
+    color: rgb(240, 30, 30);
+
+}
+.pics{
+    float: right;
+}
+.pics img{
+    margin-top: -6%;
+    height: 300px;
+    width: 300px;
+  padding-right: 80px;
+  padding-left: 80px;
+ 
+}
